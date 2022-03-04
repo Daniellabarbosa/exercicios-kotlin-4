@@ -1,0 +1,10 @@
+class Cliente {
+
+    var nome = ""
+    var email = ""
+    var telefone = ""
+    var cpf = ""
+
+
+
+}
