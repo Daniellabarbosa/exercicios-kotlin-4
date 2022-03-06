@@ -16,9 +16,14 @@
 
 }
 */
+
 /*
 fun main(){
+
+
         var aviao = Avião()
+
+
 
         aviao.modelo = "Boeing 707"
         aviao.passegeiros = 219
@@ -30,3 +35,25 @@ fun main(){
         println("Tripulação: ${aviao.tripulação}")
 
 }*/
+
+/* fun main () {
+
+   var smartphone = Smartphone ()
+
+   smartphone.modelo = "Moto G20"
+   smartphone.sistemaOperacional = "Android"
+   smartphone.tamanhodeTela = "6"
+
+   println("Modelo: ${smartphone.modelo})
+   println("sistemaOperacional: ${smartphone.sistemaOperacional})
+   println("tamanhodeTela: ${smartphone.tamanhodeTela})
+ */
+
+
+
+
+
+
+
+
+}
